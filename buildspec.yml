@@ -30,4 +30,4 @@ artifacts:
   files:
     - "**/*"
   discard-changes: no
-  base-directory: dist
+  base-directory: build
