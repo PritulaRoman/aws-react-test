@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          ReactJS application for brutal men 1.
+          ReactJS application for brutal men 2.
         </p>
       </header>
     </div>
